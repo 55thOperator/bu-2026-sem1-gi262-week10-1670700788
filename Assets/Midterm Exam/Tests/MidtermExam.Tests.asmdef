@@ -1,0 +1,8 @@
+{
+    "name": "MidtermExam.Tests",
+    "rootNamespace": "MidtermExam.Tests",
+    "references": ["MidtermExam"],
+    "includePlatforms": ["Editor"],
+    "optionalUnityReferences": ["TestAssemblies"],
+    "autoReferenced": false
+}
